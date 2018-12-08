@@ -1,0 +1,2 @@
+https://github.com/kjk/the_silver_searcher
+https://github.com/k-takata/the_silver_searcher-win32/releases
